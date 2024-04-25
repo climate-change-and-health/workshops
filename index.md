@@ -9,7 +9,7 @@ layout: default
 
 **Caveat:** It should be noted that the presentations may contain content owned by others. Where possible citations for the content are provided.  
 
-### 2024-04-23 Quantitative HIA masterclass
+### [2024-04-23 Quantitative HIA masterclass](#2024-04-23-Quantitative-HIA-masterclass)
 
 On the 23rd April 2024 The Curtin WHO Collaborating Centre, WHOCC for Climate Change and Health Impact Assessment (HIA) hosted a Methods Masterclass on Quantitative Health Impact Assessment using air pollution as a case study, facilitated by Dr Ivan Hanigan (Curtin WHOCC) and Prof Geoff Morgan (University of Sydney).  
 
