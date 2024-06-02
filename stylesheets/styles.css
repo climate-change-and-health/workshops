@@ -33,9 +33,15 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
-  font-weight:400;
-  text-decoration:none;
+  color: #0066cc; /* Dark blue color */
+  font-weight: 500; /* Semi-bold */
+  text-decoration: underline; /* No underline */
+  padding: 2px 4px; /* Padding for better readability */
+  border-radius: 4px; /* Rounded corners */
+}
+
+a.no-underline {
+  text-decoration: none; /* Add underline */
 }
 
 a small {
