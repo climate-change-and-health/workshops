@@ -10,8 +10,8 @@ A workshop on Health Impact Assessment: Data sourcing and integration for the NH
 
 
 #### Materials for this course can be downloaded:
-- Code and tools for this workshop can be downloaded from here: [https://github.com/cardat/DatSciTrain_HIA_air_health_PM25_2014_2016](https://github.com/cardat/DatSciTrain_HIA_air_health_PM25_2014_2016)
 - Datasets for this workshop can be downloaded [from this link](https://cloud.car-dat.org/index.php/s/pNQykCrqNmfMGns)
+- Code and tools for this workshop can be downloaded from here: [https://github.com/cardat/DatSciTrain_HIA_air_health_PM25_2014_2016](https://github.com/cardat/DatSciTrain_HIA_air_health_PM25_2014_2016)
 
 
 
