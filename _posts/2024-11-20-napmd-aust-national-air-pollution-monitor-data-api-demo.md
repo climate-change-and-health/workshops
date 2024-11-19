@@ -27,14 +27,15 @@ The below links provide material for the Hacky Hour workshp for the Centre for S
 
 | Time          | Topic                          | Objectives                                                                 |
 |---------------|--------------------------------|---------------------------------------------------------------------------|
-| 1:00 - 1:05 PM | Overview and Setup Instructions | Provide participants with a clear agenda and guide them through the setup. |
+| 1:00 - 1:03 PM | Acknowledgment of country |                                                                                   |
+|  1:03 - 1:05 PM  | Overview and Setup Instructions | Provide participants with a clear agenda and [guidelines for R and Rstudio setup](https://lucashertzog.github.io/gd/setup.html). |
 | 1:05 - 1:10 PM | Introduction to the Database and API | Explain the purpose and functionality of the database and API, described here: [https://cardat.github.io/napmdtools/index.html](https://cardat.github.io/napmdtools/index.html)             |
 | 1:10 - 1:15 PM | Additional Setup Assistance    | Ensure all participants have completed the setup and are ready to proceed, see [https://lucashertzog.github.io/gd/setup.html](https://lucashertzog.github.io/gd/setup.html) |
-| 1:15 - 1:30 PM | Using the API                  | Demonstrate API functionality through three key steps: see [https://github.com/cardat/DatSciTrain_napmd_api_demo](https://github.com/cardat/DatSciTrain_napmd_api_demo)                    |
+| 1:15 - 1:35 PM | Using the API                  | Demonstrate API functionality through three key steps: see [https://github.com/cardat/DatSciTrain_napmd_api_demo](https://github.com/cardat/DatSciTrain_napmd_api_demo)                    |
 |               |                                | 1. Create an API key                                                     |
 |               |                                | 2. Show available functions                                              |
 |               |                                | 3. Retrieve data using the API                                           |
-| 1:30 - 1:50 PM | Analysis with a Spatial Model  | Show how to analyze new data retrieved via API and adapt for a different event. See: [https://github.com/cardat/DatSciTrain_spatial_interpolation_with_kriging](https://github.com/cardat/DatSciTrain_spatial_interpolation_with_kriging)|
+| 1:35 - 1:50 PM | Analysis with a Spatial Model  | Show how to analyze new data retrieved via API and adapt for a different event. See: [https://github.com/cardat/DatSciTrain_spatial_interpolation_with_kriging](https://github.com/cardat/DatSciTrain_spatial_interpolation_with_kriging)|
 | 1:50 - 2:00 PM | Q&A and Wrap-Up               | Address participant questions and summarise key takeaways.                |
 
 
