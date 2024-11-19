@@ -19,7 +19,7 @@ For your own username and password please email our data curation team at
 <a class="car.data@sydney.edu.au" href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>
 
 #### Materials for this course can be downloaded:
-- Guide to set up R and Rstudio on Windows and Mac: [https://lucashertzog.github.io/gd/setup.html](https://lucashertzog.github.io/gd/setup.html)
+- Guide to set up R and Rstudio on Windows and Mac: [https://cardat.github.io/DatSciTrain_set_up_R_and_friends/r-installation](https://cardat.github.io/DatSciTrain_set_up_R_and_friends/r-installation)
 - A worked example to get air pollution data: [https://github.com/cardat/DatSciTrain_napmd_api_demo](https://github.com/cardat/DatSciTrain_napmd_api_demo)
 - A case study of using the data to make a map of air pollution: [https://github.com/cardat/DatSciTrain_spatial_interpolation_with_kriging](https://github.com/cardat/DatSciTrain_spatial_interpolation_with_kriging)
 
@@ -31,9 +31,9 @@ For your own username and password please email our data curation team at
 | Time          | Topic                          | Objectives                                                                 |
 |---------------|--------------------------------|---------------------------------------------------------------------------|
 | 1:00 - 1:03 PM | Acknowledgment of country |                                                                                   |
-|  1:03 - 1:05 PM  | Overview and Setup Instructions | Provide participants with a clear agenda and [guidelines for R and Rstudio setup](https://lucashertzog.github.io/gd/setup.html). |
+|  1:03 - 1:05 PM  | Overview and Setup Instructions | Provide participants with a clear agenda and guidelines for R and Rstudio setup: [https://cardat.github.io/DatSciTrain_set_up_R_and_friends/r-installation](https://cardat.github.io/DatSciTrain_set_up_R_and_friends/r-installation). |
 | 1:05 - 1:10 PM | Introduction to the Database and API | Explain the purpose and functionality of the database and API, described here: [https://cardat.github.io/napmdtools/index.html](https://cardat.github.io/napmdtools/index.html)             |
-| 1:10 - 1:15 PM | Additional Setup Assistance    | Ensure all participants have completed the setup and are ready to proceed, see [https://lucashertzog.github.io/gd/setup.html](https://lucashertzog.github.io/gd/setup.html) |
+| 1:10 - 1:15 PM | Additional Setup Assistance    | Ensure all participants have completed the setup and are ready to proceed, see  [https://cardat.github.io/DatSciTrain_set_up_R_and_friends/r-installation](https://cardat.github.io/DatSciTrain_set_up_R_and_friends/r-installation) |
 | 1:15 - 1:35 PM | Using the API                  | Demonstrate API functionality through three key steps: see [https://github.com/cardat/DatSciTrain_napmd_api_demo](https://github.com/cardat/DatSciTrain_napmd_api_demo)                    |
 |               |                                | 1. Create an API key                                                     |
 |               |                                | 2. Show available functions                                              |
