@@ -11,7 +11,8 @@ Clean Air and health Research Data and Analysis Technology (CARDAT) platform, ov
 formerly the Centre for Air pollution, energy and health Research (CAR)) and the WHO Collaborating Centre for Climate Change and Health Impact Assessment. 
 It aims to standardise the national collection of data from all government air pollution monitors in Australia.
 
-The database has been online now for several years however with the new API: [https://napmd.cloud.car-dat.org/__docs__/](https://napmd.cloud.car-dat.org/__docs__/) (contributed by Dr Grant Williamson at UTas) it has become even easier to use.
+The database is hosted by the NCRIS facility Terrestrial Ecosystem Research Network (TERN; [https://www.tern.org.au/](https://www.tern.org.au/))
+has been online now for several years however with the new API: [https://napmd.cloud.car-dat.org/__docs__/](https://napmd.cloud.car-dat.org/__docs__/) (contributed by Dr Grant Williamson at UTas) it has become even easier to use.
 
 The below links provide material for the Hacky Hour workshp for the Centre for Safe Air, Australia.
 
