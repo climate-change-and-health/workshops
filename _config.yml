@@ -20,3 +20,4 @@ author:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
 
 baseurl: /workshops
+future: true
