@@ -15,6 +15,9 @@ The database has been online now for several years however with [the new API](ht
 
 The below links provide material for the Hacky Hour workshp for the Centre for Safe Air, Australia.
 
+For your own username and password please email our data curation team at 
+<a class="car.data@sydney.edu.au" href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>
+
 #### Materials for this course can be downloaded:
 - Guide to set up R and Rstudio on Windows and Mac: [https://lucashertzog.github.io/gd/setup.html](https://lucashertzog.github.io/gd/setup.html)
 - A worked example to get air pollution data: [https://github.com/cardat/DatSciTrain_napmd_api_demo](https://github.com/cardat/DatSciTrain_napmd_api_demo)
