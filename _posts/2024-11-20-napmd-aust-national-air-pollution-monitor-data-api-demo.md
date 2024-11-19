@@ -11,7 +11,7 @@ Clean Air and health Research Data and Analysis Technology (CARDAT) platform, ov
 formerly the Centre for Air pollution, energy and health Research (CAR)) and the WHO Collaborating Centre for Climate Change and Health Impact Assessment. 
 It aims to standardise the national collection of data from all government air pollution monitors in Australia.
 
-The database has been online now for several years however with [the new API](https://napmd.cloud.car-dat.org/__docs__/) (contributed by Dr Grant Williamson at UTas) it has become even easier to use.
+The database has been online now for several years however with the new API: [https://napmd.cloud.car-dat.org/__docs__/](https://napmd.cloud.car-dat.org/__docs__/) (contributed by Dr Grant Williamson at UTas) it has become even easier to use.
 
 The below links provide material for the Hacky Hour workshp for the Centre for Safe Air, Australia.
 
@@ -32,7 +32,7 @@ For your own username and password please email our data curation team at
 |---------------|--------------------------------|---------------------------------------------------------------------------|
 | 1:00 - 1:05 PM | Acknowledgment of country     |                                                                                   |
 | 1:05 - 1:10 PM | Introduction                  | Explain the purpose and functionality of the database and API, described here: [https://cardat.github.io/napmdtools/index.html](https://cardat.github.io/napmdtools/index.html)             |
-| 1:10 - 1:15 PM | Additional Setup Assistance   | Ensure all participants have completed the setup and are ready to proceed, see [https://lucashertzog.github.io/gd/setup.html](https://lucashertzog.github.io/gd/setup.html) |
+| 1:10 - 1:15 PM | Additional Setup Assistance   | Ensure all participants have completed the setup and are ready to proceed, see [https://cardat.github.io/DatSciTrain_set_up_R_and_friends/rstudio-setup](https://cardat.github.io/DatSciTrain_set_up_R_and_friends/rstudio-setup) |
 | 1:15 - 1:35 PM | Using the API                 | Demonstrate API functionality through three key steps: see [https://github.com/cardat/DatSciTrain_napmd_api_demo](https://github.com/cardat/DatSciTrain_napmd_api_demo)                    |
 |               |                                | 1. Create an API key                                                     |
 |               |                                | 2. Show available functions                                              |
