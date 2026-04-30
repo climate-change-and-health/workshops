@@ -19,6 +19,10 @@ The below links provide material for the Hacky Hour workshp for the Centre for S
 For your own username and password please email our data curation team at 
 <a class="car.data@sydney.edu.au" href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>
 
+#### Workshop Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Pdb_5FGlNA?si=ClrWZSFXnQvLbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Materials for this course can be downloaded:
 - Guide to set up R and Rstudio on Windows and Mac: [https://cardat.github.io/DatSciTrain_set_up_R_and_friends/rstudio-setup](https://cardat.github.io/DatSciTrain_set_up_R_and_friends/rstudio-setup)
 - A worked example to get air pollution data: [https://github.com/cardat/DatSciTrain_napmd_api_demo](https://github.com/cardat/DatSciTrain_napmd_api_demo)
