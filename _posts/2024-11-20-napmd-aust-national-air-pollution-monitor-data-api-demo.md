@@ -1,4 +1,4 @@
-  ---
+---
 layout: post
 date: 2024-11-20
 ---
@@ -17,7 +17,7 @@ has been online now for several years however with the new API: [https://napmd.c
 The below links provide material for the Hacky Hour workshp for the Centre for Safe Air, Australia.
 
 For your own username and password please email our data curation team at 
-<a class="car.data@sydney.edu.au" href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>
+<a class="car.data@sydney.edu.au" href="mailto:car.data@curtin.edu.au">car.data@curtin.edu.au</a>
 
 #### Workshop Recording
 
